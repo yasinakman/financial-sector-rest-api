@@ -1,0 +1,30 @@
+${AnsiColor.BRIGHT_GREEN}
+                                                                                   _|       _|
+ _|_|_|       _|_|     _|      _|      _|     _|_|     _|  _|_|     _|_|       _|_|_|       _|_|_|     _|    _|
+ _|    _|   _|    _|   _|      _|      _|   _|_|_|_|   _|_|       _|_|_|_|   _|    _|       _|    _|   _|    _|
+ _|    _|   _|    _|     _|  _|  _|  _|     _|         _|         _|         _|    _|       _|    _|   _|    _|
+ _|_|_|       _|_|         _|      _|         _|_|_|   _|           _|_|_|     _|_|_|       _|_|_|       _|_|_|
+ _|                                                                                                          _|
+ _|                                                                                                      _|_|
+
+${AnsiBackground.DEFAULT}${AnsiColor.WHITE}
+${AnsiColor.WHITE}          ${AnsiColor.BRIGHT_GREEN}            ${AnsiColor.WHITE}  ${AnsiColor.BRIGHT_GREEN}              ${AnsiColor.WHITE}          ${AnsiColor.BRIGHT_GREEN}.     ${AnsiColor.WHITE}    ${AnsiColor.BRIGHT_GREEN}.
+${AnsiColor.WHITE}         ${AnsiColor.BRIGHT_GREEN}.8.          ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888     ,88' ${AnsiColor.WHITE}         ${AnsiColor.BRIGHT_GREEN},8.    ${AnsiColor.WHITE}   ${AnsiColor.BRIGHT_GREEN},8.          ${AnsiColor.WHITE}         ${AnsiColor.BRIGHT_GREEN}.8.          ${AnsiColor.WHITE}${AnsiColor.BRIGHT_GREEN}b.             8
+${AnsiColor.WHITE}        ${AnsiColor.BRIGHT_GREEN}.888.         ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888    ,88'  ${AnsiColor.WHITE}        ${AnsiColor.BRIGHT_GREEN},888.   ${AnsiColor.WHITE}  ${AnsiColor.BRIGHT_GREEN},888.         ${AnsiColor.WHITE}        ${AnsiColor.BRIGHT_GREEN}.888.         ${AnsiColor.WHITE}${AnsiColor.BRIGHT_GREEN}888o.          8
+${AnsiColor.WHITE}       ${AnsiColor.BRIGHT_GREEN}:88888.        ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888   ,88'   ${AnsiColor.WHITE}       .${AnsiColor.BRIGHT_GREEN}`8888.  ${AnsiColor.WHITE} .${AnsiColor.BRIGHT_GREEN}`8888.        ${AnsiColor.WHITE}       ${AnsiColor.BRIGHT_GREEN}:88888.        ${AnsiColor.WHITE}${AnsiColor.BRIGHT_GREEN}Y88888o.       8
+${AnsiColor.WHITE}      . ${AnsiColor.BRIGHT_GREEN}`88888.       ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888  ,88'    ${AnsiColor.WHITE}      ,8.${AnsiColor.BRIGHT_GREEN}`8888. ${AnsiColor.WHITE},8.${AnsiColor.BRIGHT_GREEN}`8888.       ${AnsiColor.WHITE}      . ${AnsiColor.BRIGHT_GREEN}`88888.       ${AnsiColor.WHITE}.${AnsiColor.BRIGHT_GREEN}`Y888888o.    8
+${AnsiColor.WHITE}     .8. ${AnsiColor.BRIGHT_GREEN}`88888.      ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888 ,88'     ${AnsiColor.WHITE}     ,8'8.${AnsiColor.BRIGHT_GREEN}`8888,${AnsiColor.WHITE}8^8.${AnsiColor.BRIGHT_GREEN}`8888.      ${AnsiColor.WHITE}     .8. ${AnsiColor.BRIGHT_GREEN}`88888.      ${AnsiColor.WHITE}8o. ${AnsiColor.BRIGHT_GREEN}`Y888888o. 8
+${AnsiColor.WHITE}    .8`8. ${AnsiColor.BRIGHT_GREEN}`88888.     ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888 88'      ${AnsiColor.WHITE}    ,8' `8.${AnsiColor.BRIGHT_GREEN}`8888${AnsiColor.WHITE}' `8.${AnsiColor.BRIGHT_GREEN}`8888.     ${AnsiColor.WHITE}    .8`8. ${AnsiColor.BRIGHT_GREEN}`88888.     ${AnsiColor.WHITE}8`Y8o. ${AnsiColor.BRIGHT_GREEN}`Y88888o8
+${AnsiColor.WHITE}   .8' `8. ${AnsiColor.BRIGHT_GREEN}`88888.    ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}888888<       ${AnsiColor.WHITE}   ,8'   `8.${AnsiColor.BRIGHT_GREEN}`88'   ${AnsiColor.WHITE}`8.${AnsiColor.BRIGHT_GREEN}`8888.    ${AnsiColor.WHITE}   .8' `8. ${AnsiColor.BRIGHT_GREEN}`88888.    ${AnsiColor.WHITE}8   `Y8o. ${AnsiColor.BRIGHT_GREEN}`Y8888
+${AnsiColor.WHITE}  .8'   `8. ${AnsiColor.BRIGHT_GREEN}`88888.   ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888 `Y8.     ${AnsiColor.WHITE}  ,8'     `8.${AnsiColor.BRIGHT_GREEN}`'     ${AnsiColor.WHITE}`8.${AnsiColor.BRIGHT_GREEN}`8888.   ${AnsiColor.WHITE}  .8'   `8. ${AnsiColor.BRIGHT_GREEN}`88888.   ${AnsiColor.WHITE}8      `Y8o. ${AnsiColor.BRIGHT_GREEN}`Y8
+${AnsiColor.WHITE} .888888888. ${AnsiColor.BRIGHT_GREEN}`88888.  ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888   `Y8.   ${AnsiColor.WHITE} ,8'       `8 ${AnsiColor.BRIGHT_GREEN}       ${AnsiColor.WHITE}`8.${AnsiColor.BRIGHT_GREEN}`8888.  ${AnsiColor.WHITE} .888888888. ${AnsiColor.BRIGHT_GREEN}`88888.  ${AnsiColor.WHITE}8         `Y8o.${AnsiColor.BRIGHT_GREEN}`
+${AnsiColor.WHITE}.8'       `8. ${AnsiColor.BRIGHT_GREEN}`88888. ${AnsiColor.WHITE}8 ${AnsiColor.BRIGHT_GREEN}8888     `Y8. ${AnsiColor.WHITE},8'         `  ${AnsiColor.BRIGHT_GREEN}       ${AnsiColor.WHITE}`8.${AnsiColor.BRIGHT_GREEN}`8888. ${AnsiColor.WHITE}.8'       `8. ${AnsiColor.BRIGHT_GREEN}`88888. ${AnsiColor.WHITE}8            `Yo${AnsiColor.BRIGHT_GREEN}
+
+
+${AnsiColor.WHITE}
+,--.   ,--.         ,--.
+|  |   |  |  ,---.  |  |  ,---.  ,---.  ,--,--,--.  ,---.
+|  |.'.|  | | .-. : |  | | .--' | .-. | |        | | .-. :
+|   ,'.   | \   --. |  | \ `--. ' '-' ' |  |  |  | \   --.
+'--'   '--'  `----' `--'  `---'  `---'  `--`--`--'  `----'                         ${AnsiBackground.DEFAULT}${AnsiColor.WHITE}Spring Boot ${spring-boot.version}
+${AnsiBackground.DEFAULT}${AnsiColor.WHITE}

@@ -1,0 +1,22 @@
+package com.akman.springbootdemo.utils;
+
+public class ErrorConstants {
+    public static final String ANY_USER = "ANY_USER";
+    public static final String CUSTOMER_SAVE_FAILED = "CUSTOMER_SAVE_FAILED";
+    public static final String ACCOUNT_SAVE_FAILED = "ACCOUNT_SAVE_FAILED";
+    public static final String CREDIT_SAVE_FAILED = "CREDIT_SAVE_FAILED";
+
+    public static final String ACCOUNT_NOT_FOUND = "ACCOUNT_NOT_FOUND";
+    public static final String CUSTOMER_NOT_FOUND = "CUSTOMER_NOT_FOUND";
+    public static final String CREDIT_NOT_FOUND = "CREDIT_NOT_FOUND";
+    public static final String COULD_NOT_FOUND_ANY_CREDIT_TO_UPDATE = "COULD_NOT_FOUND_ANY_CREDIT_TO_UPDATE";
+    public static final String COULD_NOT_FOUND_ANY_ACCOUNT_ID_TO_UPDATE = "COULD_NOT_FOUND_ANY_ACCOUNT_ID_TO_UPDATE";
+
+    public static final String CUSTOMER_HAS_NOT_ANY_ACCOUNT_WITH_COMPATIBLE_CURRENCY_TO_CREDIT_CURRENCY = "CUSTOMER_HAS_NOT_ANY_ACCOUNT_WITH_COMPATIBLE_CURRENCY_TO_CREDIT_CURRENCY";
+    public static final String CUSTOMER_HAS_AN_ACTIVE_CREDIT = "CUSTOMER_HAS_AN_ACTIVE_CREDIT";
+    public static final String RATING_CAN_NOT_BE_LESS_THAN_1_AND_GREATER_THAN_4 = "RATING_CAN_NOT_BE_LESS_THAN_1_AND_GREATER_THAN_4";
+    public static final String CREDIT_IS_NOT_ACTIVE = "CREDIT_IS_NOT_ACTIVE";
+    public static final String INCOMING_ACCOUNT_ID_WAS_NOT_GIVEN = "INCOMING_ACCOUNT_ID_WAS_NOT_GIVEN";
+    public static final String INCOMING_CREDIT_ID_WAS_NOT_GIVEN = "INCOMING_CREDIT_ID_WAS_NOT_GIVEN";
+    public static final String INCOMING_AND_OUTGOING_ACCOUNT_IDS_ARE_EQUAL = "INCOMING_AND_OUTGOING_ACCOUNT_IDS_ARE_EQUAL";
+}
